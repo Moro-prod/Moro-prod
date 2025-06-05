@@ -29,13 +29,6 @@
 ![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="center">
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moro-prod&layout=compact&theme=tokyonight)
-
-</div>
-
 ##
 ![I am currently online](https://img.shields.io/badge/status-online-brightgreen?style=flat-square)
 ![Profile Views](https://komarev.com/ghpvc/?username=Moro-prod&color=red)
